@@ -15,6 +15,8 @@ Various files to support upcoming GitHub tasks the series trains you for, but mo
 
 ## License
 
+I agree
+
 This is for the new people only....
 [touchme]
 This repository is © 2015 Christophe Porteneuve, provided under the [MIT license](LICENSE), and part of a video training series produced for and distributed by O’Reilly.
